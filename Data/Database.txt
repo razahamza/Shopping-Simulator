@@ -1,0 +1,276 @@
+Tops
+Croptops
+Geo
+111
+10.80
+1
+VNeck
+112
+6.80
+5
+Merci Beaucoup
+113
+12.80
+3
+Floral
+114
+10.80
+2
+T-Shirt
+Stripes
+121
+15.80
+9
+Crochet Body
+122
+12.50
+7
+Chiffon Raglan
+123
+10.50
+4
+Knit Crossback
+124
+12.50
+5
+Long Sleeves
+Heathered Knit
+131
+16.80
+6
+Muse Knit
+132
+16.80
+3
+Relaxed Pocket
+133
+16.80
+8
+Sleeve Linen
+134
+16.80
+9
+Blouses
+Pleated Blouse
+141
+21.80
+6
+Palm Woven
+142
+18.80
+3
+Button Crochet
+143
+21.80
+1
+Crossback Floral
+144
+18.80
+0
+Bottoms
+Denim
+Stretch Skinny
+211
+23.80
+7
+High Waist Skinny
+212
+15.80
+6
+Camo Skinny
+213
+23.80
+9
+Ripped Skinny
+214
+29.80
+4
+Shorts
+Ornate Lace Woven
+221
+21.80
+5
+Distressed Denim
+222
+17.80
+7
+Sunflower Denim
+223
+21.80
+8
+Rustic Denim
+224
+21.80
+1
+Romper
+Woven Floral Belted
+231
+27.80
+3
+Crocheted Racerback
+232
+21.80
+5
+Lace Collar Front
+233
+23.80
+10
+Polka Dot Overall
+234
+27.80
+3
+Skirts
+Leapord Bodycon
+241
+10.80
+5
+Knit Skater
+242
+10.80
+8
+Favourite Lace
+243
+27.80
+9
+Batman Bodycon
+244
+16.80
+1
+Shoes
+Boots
+Combat Boot
+311
+47.80
+0
+Perforated Combat Boots
+312
+33.80
+3
+Go Combat Boots
+313
+47.80
+2
+Cozy Boots
+314
+43.80
+1
+Heels
+Faux Pumps
+321
+10.80
+0
+Posh Pumps
+322
+27.80
+2
+Favourite Sandals
+323
+51.80
+2
+Iconic Pumps
+324
+35.80
+6
+Flats
+Sleek Flats
+331
+23.80
+4
+Methal Flats
+332
+15.80
+1
+Posh Flats
+333
+27.80
+6
+Rhinestoned Flats
+334
+29.80
+3
+Sneakers
+Basket-Woven Tops
+341
+51.80
+3
+Checkered High Tops
+342
+35.80
+1
+Sugar Town Sneakers
+343
+47.80
+0
+Striped High Tops
+344
+43.80
+9
+Accessories
+Bags
+Seamed Carry
+411
+33.80
+2
+Faux Tote
+412
+29.80
+3
+Modernist Crossbody
+413
+25.80
+5
+Baja Weekender
+414
+33.80
+3
+Jewellery
+Elegant Necklace
+421
+10.80
+3
+Female Stone Studs
+422
+4.80
+1
+Cascading Necklace
+423
+13.80
+7
+Filligree Bracelet
+424
+9.80
+5
+Scarves
+Abstract Scarf
+431
+10.80
+7
+Regent Scarf
+432
+11.80
+3
+Watercolor Scarf
+433
+10.80
+3
+Easy Open Scarf
+434
+10.80
+4
+Hats
+Floppy Fedora
+441
+17.80
+4
+Je'Taime Beanie
+442
+7.80
+5
+Patterned Hat
+443
+17.80
+3
+Neon Hat
+444
+15.80
+2
